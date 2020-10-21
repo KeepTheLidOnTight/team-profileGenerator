@@ -15,10 +15,6 @@ npm i
 ```
 
 # Credits/Thanks:
-W3 Schools: [W3](https://www.w3schools.com/js/DEFAULT.asp)
-<br>
-JavaScript: [JS](https://www.javascripttutorial.net/javascript-multidimensional-array/)
-<br>
 I would personally like to thank a majority of the members of my cohort at the University of Minnesota, including my instructor and teaching assistants.
 <br>
 My personal tutor, Greg was of great aid to me.
@@ -27,7 +23,7 @@ My personal tutor, Greg was of great aid to me.
 N/A
 
 # Furthur Developments/Edits
-Continue to add more prompts for the user.
+Add more styling to the output.html file and perhaps include more information about each team member.
 
 # Questions 
 If you have any questions about the repo, open an issue. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
