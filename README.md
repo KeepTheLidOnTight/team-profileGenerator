@@ -6,12 +6,12 @@ See here:
 [GitHub Repository](https://github.com/KeepTheLidOnTight/team-profileGenerator)
 
 # Usage Instructions
-Watch a usage video of this program being run here: [Usage](https://drive.google.com/file/d/1tgy-QvnZpDp4wVKb96nEPKEUeSrdr6zC/view)
+Watch a usage video of this program being run here: [Usage](https://drive.google.com/file/d/1rZkQCB8gTB0acCe7woiODk4pk0SHV_cE/view)
 
 # Installation:
 Use 
 ```
-npm i
+npm i 
 ```
 
 # Credits/Thanks:
